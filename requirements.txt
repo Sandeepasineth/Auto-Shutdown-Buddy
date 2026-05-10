@@ -1,0 +1,11 @@
+# No external packages required!
+# The python script uses only Python's built-in standard libraries:
+tkinter
+subprocess
+random
+ctypes
+sys
+os
+
+# (Optional) Only needed if you want to compile the .exe yourself:
+pyinstaller
