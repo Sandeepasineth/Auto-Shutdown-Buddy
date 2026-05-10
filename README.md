@@ -11,20 +11,8 @@ No data loss. No forced closures. Just a clean, normal Windows shutdown.
 
 ## ✨ Preview
 
-┌──────────────────────────────────────────────────┐
-│ 0A F3 │ SAFE SHUTDOWN TIMER_ │ B7 2E 9C │
-│ 8B │ ════════════════════ │ 4F │
-│ │ > TIME: [ 30 ] │ │
-│ F2 │ Unit: (·)Sec (·)Min │ 7A │
-│ 3E │ ( )Hour │ C0 │
-│ │ [ SCHEDULE ] [CANCEL] │ │
-│ 9A │ ████████████░░░░░░░░ │ 5B │
-│ │ │ │
-│ 4D │ 00:14:22 │ │
-│ │ >> Shutdown active. │ 2A │
-│ 1E │ > Safe: Apps save │ │
-│ │ > Non-force guaranteed│ B9 │
-└──────────────────────────────────────────────────┘
+![UI01](1.png)
+![UI01](1.png)
 
 
 ---
